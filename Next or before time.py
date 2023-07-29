@@ -1,4 +1,4 @@
-hour1= (input("Enter firs time:"))
+hour1= (input("Enter first time:"))
 minute1= (input("Enter minuts:"))
 hour2= (input("Enter second time:"))
 minute2= (input("Enter minuts:"))
