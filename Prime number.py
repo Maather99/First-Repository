@@ -1,4 +1,5 @@
-
+print("Number | Prime Status")
+print("--------------------")
 def is_prime(num):
     if num < 2:
         return False
@@ -7,4 +8,4 @@ def is_prime(num):
             return False
     return True
 for num in range(1,31):
-    print(f"{num}|{is_prime(num)}")
+    print(f" {num}     | {is_prime( num)}")
